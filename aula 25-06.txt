@@ -1,0 +1,12 @@
+====[REQUISITOS]====
+*Cubo com RB
+*Sprite pro tiro
+*GO vazio que será de onde vai ser instanciado
+===================
+====[CONTEUDO]====
+1º Input.GetMouseButtonDown(0)
+2º Apresentar sistema de tiro com haycast
+3º Desafio: 
+►+1 arma (melee)
+►Trocar arma
+4º Usar Raycast para definir o isgrounded
