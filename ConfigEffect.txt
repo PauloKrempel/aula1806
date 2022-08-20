@@ -1,0 +1,3 @@
+500x500
+fundo preto
+20% de opacidade
